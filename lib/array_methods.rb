@@ -9,8 +9,6 @@ end
 
 def find_max_value(array)
   
-  array.find_max(hill) { |index|
-  puts array[index]
   }
 end
 
